@@ -1,8 +1,9 @@
-# The Pickle Shop
+
+# The Pickle Shop  
 
 Welcome to **The Pickle Shop** repository! We specialize in selling a variety of pickles, perfect for sour lovers.
 
-![The Pickle Shop](public/images/main-logo.png)
+![The Pickle Shop](public/images/tps.png)
 
 ## Table of Contents
 
