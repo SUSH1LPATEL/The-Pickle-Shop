@@ -3,7 +3,7 @@
 
 Welcome to **The Pickle Shop** repository! We specialize in selling a variety of pickles, perfect for sour lovers.
 
-[![The Pickle Shop](public/images/tps.png)](https://sush1lpatel.github.io/The-Pickle-Shop/)
+[![The Pickle Shop](public/images/tps.png)](https://sush1lpatel.github.io/The-Pickle-Shop/) click this image to visit this website
 
 
 ## Table of Contents
