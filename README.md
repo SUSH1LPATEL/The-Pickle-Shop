@@ -66,7 +66,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, please reach out to us at:
 
 - Email: [contact@pickleshop.com](mailto:contact@pickleshop.com)
-- Website: [www.pickleshop.com](https://www.pickleshop.com)
+- Website: [sush1lpatel.github.io/The-Pickle-Shop/](https://sush1lpatel.github.io/The-Pickle-Shop/)
 - GitHub: [SUSH1LPATEL](https://github.com/SUSH1LPATEL)
 
 ---
